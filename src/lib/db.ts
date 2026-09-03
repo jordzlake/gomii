@@ -41,6 +41,11 @@ export async function getDb(): Promise<Db> {
       db.collection("completions").createIndex({ userId: 1, taskKey: 1, completedAt: -1 }),
       db.collection("goals").createIndex({ userId: 1 }),
       db.collection("categories").createIndex({ userId: 1 }),
+      db.collection("completions").createIndex({ userId: 1, repeat: 1, completedAt: -1 }),
+      db.collection("friendships").createIndex({ requester: 1, recipient: 1 }, { unique: true }),
+      db.collection("friendships").createIndex({ recipient: 1, status: 1 }),
+      db.collection("cheers").createIndex({ completionId: 1, fromUserId: 1 }, { unique: true }),
+      db.collection("cheers").createIndex({ toUserId: 1 }),
     ]).catch(() => undefined);
   }
   return db;

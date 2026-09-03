@@ -1,0 +1,121 @@
+/* ---------- Friend rows ---------- */
+.friend-row {
+  display: grid;
+  grid-template-columns: 52px 1fr auto;
+  gap: 12px;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+  border: 2px solid var(--line);
+  background: linear-gradient(180deg, rgba(11, 36, 64, 0.92), rgba(7, 20, 38, 0.92));
+}
+
+.friend-row b { font-size: 17px; }
+.friend-row small { font-size: 13px; }
+
+/* ---------- Achievement log ---------- */
+.feed-item {
+  display: grid;
+  grid-template-columns: 52px 1fr;
+  gap: 12px;
+  padding: 12px;
+  border-radius: var(--radius);
+  border: 2px solid var(--line);
+  background: linear-gradient(180deg, rgba(11, 36, 64, 0.92), rgba(7, 20, 38, 0.92));
+}
+
+.feed-item--goal { border-color: rgba(152, 87, 229, 0.55); }
+.feed-line { font-size: 16px; line-height: 1.35; }
+.feed-name { color: var(--cyan); font-weight: 700; }
+.feed-item b { color: var(--cream); }
+
+.feed-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.cheer {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--display);
+  font-size: 8px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 2px solid var(--border);
+  background: rgba(3, 8, 15, 0.4);
+  color: var(--cream);
+  transition: transform 90ms ease, border-color 120ms ease, color 120ms ease;
+}
+
+.cheer:active { transform: translateY(2px); }
+.cheer:hover:not(:disabled) { border-color: var(--soft-pink); color: var(--soft-pink); }
+.cheer--done { border-color: var(--soft-pink); color: var(--soft-pink); background: rgba(255, 143, 179, 0.12); }
+.cheer:disabled { cursor: default; }
+
+.cheer-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--display);
+  font-size: 8px;
+  color: var(--soft-pink);
+}
+
+/* ---------- Track friends switch ---------- */
+.track-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 12px 14px;
+  border-radius: var(--radius);
+  border: 2px solid var(--line);
+  background: rgba(11, 36, 64, 0.7);
+}
+
+.switch {
+  flex: 0 0 auto;
+  width: 54px;
+  height: 28px;
+  border-radius: 16px;
+  border: 2px solid var(--border);
+  background: rgba(3, 8, 15, 0.6);
+  padding: 2px;
+  display: flex;
+  transition: background 160ms ease, border-color 160ms ease;
+}
+
+.switch span {
+  width: 20px;
+  height: 20px;
+  border-radius: 6px;
+  background: var(--border);
+  transition: transform 180ms cubic-bezier(0.2, 0.9, 0.2, 1), background 160ms ease;
+}
+
+.switch--on { border-color: var(--cyan); background: rgba(36, 200, 240, 0.18); }
+.switch--on span { transform: translateX(26px); background: var(--cyan); }
+
+/* ---------- Unread badge on the nav ---------- */
+.nav-item { position: relative; }
+
+.badge {
+  position: absolute;
+  top: 0;
+  right: 6px;
+  min-width: 17px;
+  height: 17px;
+  padding: 0 4px;
+  border-radius: 9px;
+  background: var(--coral);
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 7px;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 0 10px -2px var(--coral);
+}

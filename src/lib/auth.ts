@@ -19,6 +19,9 @@ export type UserDoc = {
   stats: StatBlock;
   streak: number;
   lastCompletedOn: string | null;
+  trackFriends: boolean;
+  cheersReceived: number;
+  friendsSeenAt: Date | null;
   createdAt: Date;
 };
 
@@ -33,6 +36,9 @@ export function newUserDefaults(avatarId: string) {
     stats: emptyStats(),
     streak: 0,
     lastCompletedOn: null as string | null,
+    trackFriends: true,
+    cheersReceived: 0,
+    friendsSeenAt: null as Date | null,
     createdAt: new Date(),
   };
 }

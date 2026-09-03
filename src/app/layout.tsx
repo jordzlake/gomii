@@ -4,6 +4,7 @@ import "@/styles/base.css";
 import "@/styles/components.css";
 import "@/styles/animations.css";
 import "@/styles/screens.css";
+import "@/styles/friends.css";
 import ServiceWorker from "@/components/ServiceWorker";
 
 export const metadata: Metadata = {

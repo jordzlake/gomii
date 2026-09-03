@@ -86,6 +86,7 @@ export async function PATCH(req: Request) {
       taskKey: `g_${goal._id.toString()}`,
       title: goal.title,
       category: "Long term goal",
+      repeat: "once",
       stats,
       points,
       xp,

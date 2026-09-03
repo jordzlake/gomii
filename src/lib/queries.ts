@@ -34,6 +34,7 @@ export type CompletionDoc = {
   taskKey: string;
   title: string;
   category: string;
+  repeat: Repeat;
   stats: StatBlock;
   points: number;
   xp: number;

@@ -214,7 +214,7 @@
 .nav-inner {
   pointer-events: auto;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   width: 100%;
   max-width: var(--shell);
   background: rgba(11, 36, 64, 0.97);
@@ -233,11 +233,11 @@
   border-radius: 10px;
   color: var(--muted);
   font-family: var(--display);
-  font-size: 7px;
-  letter-spacing: 0.03em;
+  font-size: 6.5px;
+  letter-spacing: 0.02em;
 }
 
-.nav-item img { width: 26px; height: 26px; filter: grayscale(1) opacity(0.6); transition: filter 150ms ease, transform 150ms ease; }
+.nav-item img { width: 24px; height: 24px; filter: grayscale(1) opacity(0.6); transition: filter 150ms ease, transform 150ms ease; }
 .nav-item[data-active="true"] { color: var(--cream); background: rgba(36, 200, 240, 0.12); }
 .nav-item[data-active="true"] img { filter: none; transform: translateY(-2px); }
 

@@ -62,6 +62,8 @@ export async function POST(req: Request) {
       taskKey: key,
       title: task.title,
       category: task.category,
+      // Stored so the friend log can show achievements and skip repeating chores.
+      repeat: task.repeat,
       stats: task.stats,
       points,
       xp,

@@ -16,6 +16,7 @@ export default function CharacterSheet({
   streak,
   stats,
   completedCount,
+  cheersReceived,
 }: {
   username: string;
   avatarId: string;
@@ -25,6 +26,7 @@ export default function CharacterSheet({
   streak: number;
   stats: Record<string, number>;
   completedCount: number;
+  cheersReceived: number;
 }) {
   const router = useRouter();
   const [current, setCurrent] = useState(avatarId);
@@ -72,6 +74,9 @@ export default function CharacterSheet({
           </span>
           <span className="chip" style={{ color: "var(--lime)" }}>
             <Icon name="checklist" size={14} /> {completedCount} done
+          </span>
+          <span className="chip" style={{ color: "var(--soft-pink)" }}>
+            <Icon name="celebrate" size={14} /> {cheersReceived} good jobs
           </span>
         </div>
         <button className="btn btn--ghost" onClick={() => setPicking((p) => !p)}>

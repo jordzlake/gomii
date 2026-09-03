@@ -22,6 +22,7 @@ export default async function CharacterPage() {
         streak={user.streak}
         stats={user.stats}
         completedCount={completedCount}
+        cheersReceived={user.cheersReceived ?? 0}
       />
     </>
   );
