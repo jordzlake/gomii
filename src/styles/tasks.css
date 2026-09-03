@@ -1,0 +1,61 @@
+/* ---------- Slide-up sheet used by the task editor ---------- */
+.sheet {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  background: rgba(3, 8, 15, 0.8);
+  backdrop-filter: blur(3px);
+  padding: 16px 12px calc(16px + env(safe-area-inset-bottom));
+}
+
+.sheet-card {
+  width: 100%;
+  max-width: var(--shell);
+  max-height: 86dvh;
+  overflow-y: auto;
+  padding: 16px;
+  border-radius: 18px;
+  border: 2px solid var(--line);
+  background: linear-gradient(180deg, rgba(11, 36, 64, 0.99), rgba(7, 20, 38, 0.99));
+  box-shadow: 0 -8px 40px -14px #000;
+}
+
+/* ---------- Hidden tasks ---------- */
+.task--hidden { opacity: 0.62; border-style: dashed; }
+
+.hidden-tasks {
+  margin-top: 22px;
+  border: 2px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(11, 36, 64, 0.5);
+  overflow: hidden;
+}
+
+.hidden-tasks > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 14px;
+  cursor: pointer;
+  font-family: var(--display);
+  font-size: 10px;
+  color: var(--cream);
+  list-style: none;
+}
+
+.hidden-tasks > summary::-webkit-details-marker { display: none; }
+.hidden-tasks > summary::after {
+  content: "+";
+  font-size: 14px;
+  color: var(--muted);
+}
+.hidden-tasks[open] > summary::after { content: "–"; }
+.hidden-tasks[open] > summary { border-bottom: 2px solid var(--line); }
+.hidden-tasks .stack,
+.hidden-tasks .empty { padding: 14px; }
+
+.task-actions .btn--ghost { padding: 11px 12px; }

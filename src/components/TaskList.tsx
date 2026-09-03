@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import gsap from "gsap";
 import { Icon } from "./Sprite";
 import RewardOverlay, { Reward } from "./RewardOverlay";
+import TaskEditor from "./TaskEditor";
 import { DIFFICULTY, STATS, StatKey } from "@/lib/stats";
 import { REPEAT_LABEL, nextResetLabel } from "@/lib/tasks";
 import { CATEGORY_ICONS, IconName } from "@/data/sprites";
@@ -22,6 +23,7 @@ export type ClientTask = {
   custom: boolean;
   available: boolean;
   unlocked: boolean;
+  hidden: boolean;
 };
 
 export default function TaskList({
@@ -29,17 +31,21 @@ export default function TaskList({
   emptyLine = "Nothing here yet.",
   showFilters = false,
   deletable = false,
+  manageable = false,
 }: {
   tasks: ClientTask[];
   emptyLine?: string;
   showFilters?: boolean;
   deletable?: boolean;
+  /** Adds the hide, unhide and edit controls. */
+  manageable?: boolean;
 }) {
   const router = useRouter();
   const [reward, setReward] = useState<Reward | null>(null);
   const [busy, setBusy] = useState<string | null>(null);
   const [category, setCategory] = useState<string>("All");
   const [query, setQuery] = useState("");
+  const [editing, setEditing] = useState<ClientTask | null>(null);
 
   const categories = useMemo(
     () => ["All", ...Array.from(new Set(tasks.map((t) => t.category))).sort()],
@@ -72,6 +78,17 @@ export default function TaskList({
       gsap.to(el, { scale: 0.96, opacity: 0.45, duration: 0.25, ease: "power2.out" });
     }
     setReward({ ...data, kind: "task" });
+    router.refresh();
+  }
+
+  async function setHidden(task: ClientTask, hidden: boolean) {
+    setBusy(task.key);
+    await fetch("/api/tasks/hidden", {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ key: task.key, hidden }),
+    });
+    setBusy(null);
     router.refresh();
   }
 
@@ -122,7 +139,9 @@ export default function TaskList({
               <article
                 key={t.key}
                 id={`task-${t.key}`}
-                className={`task ${!t.unlocked ? "task--locked" : ""} ${t.unlocked && !t.available ? "task--done" : ""}`}
+                className={`task ${!t.unlocked ? "task--locked" : ""} ${
+                  t.unlocked && !t.available ? "task--done" : ""
+                } ${t.hidden ? "task--hidden" : ""}`}
               >
                 <div className="diamond diamond--sm" style={{ ["--tint" as string]: d.colour }}>
                   <Icon name={t.icon} size={30} />
@@ -159,6 +178,20 @@ export default function TaskList({
                         {t.unlocked ? nextResetLabel(t.repeat) : `Unlocks at level ${t.levelUnlocked}`}
                       </span>
                     )}
+                    {manageable && t.custom && (
+                      <button className="btn btn--ghost" onClick={() => setEditing(t)}>
+                        Edit
+                      </button>
+                    )}
+                    {manageable && (
+                      <button
+                        className="btn btn--ghost"
+                        disabled={busy === t.key}
+                        onClick={() => setHidden(t, !t.hidden)}
+                      >
+                        {t.hidden ? "Unhide" : "Hide"}
+                      </button>
+                    )}
                     {deletable && t.custom && (
                       <button className="btn btn--ghost" onClick={() => remove(t)}>
                         Delete
@@ -170,6 +203,14 @@ export default function TaskList({
             );
           })}
         </div>
+      )}
+
+      {editing && (
+        <TaskEditor
+          task={editing}
+          categories={categories.filter((c) => c !== "All")}
+          onClose={() => setEditing(null)}
+        />
       )}
 
       {reward && <RewardOverlay reward={reward} onClose={() => setReward(null)} />}

@@ -45,11 +45,11 @@
     "task": "Explore a neighbourhood you have never visited",
     "category": "Travelling",
     "levelUnlocked": 1,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 1,
@@ -87,10 +87,10 @@
     "task": "Create a cosy reading corner",
     "category": "Books",
     "levelUnlocked": 1,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -297,10 +297,10 @@
     "task": "Watch a comedy chosen by someone else",
     "category": "Movies",
     "levelUnlocked": 3,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -423,10 +423,10 @@
     "task": "Practise controlled breathing in the water",
     "category": "Swimming",
     "levelUnlocked": 5,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -906,11 +906,11 @@
     "task": "Use a question jar during a conversation",
     "category": "Social",
     "levelUnlocked": 9,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 2,
@@ -927,10 +927,10 @@
     "task": "Practise smooth starting and stopping in a safe area",
     "category": "Driving",
     "levelUnlocked": 10,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -1011,11 +1011,11 @@
     "task": "Float like a star for thirty calm seconds",
     "category": "Swimming",
     "levelUnlocked": 10,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -1116,11 +1116,11 @@
     "task": "Type for fifteen minutes without looking at the keyboard",
     "category": "Skills",
     "levelUnlocked": 12,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -1368,11 +1368,11 @@
     "task": "Practise the smoothest safe stop you can manage",
     "category": "Driving",
     "levelUnlocked": 14,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -1389,10 +1389,10 @@
     "task": "Invite someone to a quick snack break",
     "category": "Social",
     "levelUnlocked": 14,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -1476,8 +1476,8 @@
     "repeated": true,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
-      "monthly": false
+      "weekly": false,
+      "monthly": true
     },
     "stats": {
       "CHA": 0,
@@ -1515,10 +1515,10 @@
     "task": "Have a ten-minute conversation without checking your phone",
     "category": "Social",
     "levelUnlocked": 16,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -1704,10 +1704,10 @@
     "task": "Kick while holding the pool edge",
     "category": "Swimming",
     "levelUnlocked": 18,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -1746,10 +1746,10 @@
     "task": "Choose your next book using genre roulette",
     "category": "Books",
     "levelUnlocked": 18,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -1770,8 +1770,8 @@
     "repeated": true,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
-      "monthly": false
+      "weekly": false,
+      "monthly": true
     },
     "stats": {
       "CHA": 2,
@@ -1893,10 +1893,10 @@
     "task": "Drive on a quiet residential road with supervision",
     "category": "Driving",
     "levelUnlocked": 20,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -2103,10 +2103,10 @@
     "task": "Swim one pool length using only kicks",
     "category": "Swimming",
     "levelUnlocked": 22,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -2376,11 +2376,11 @@
     "task": "Pack a picnic and enjoy it outdoors",
     "category": "Cooking",
     "levelUnlocked": 25,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -2418,10 +2418,10 @@
     "task": "Learn the basic freestyle arm movement",
     "category": "Swimming",
     "levelUnlocked": 26,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -2460,11 +2460,11 @@
     "task": "Complete a perfect parking challenge three times",
     "category": "Driving",
     "levelUnlocked": 26,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -2544,11 +2544,11 @@
     "task": "Share three songs with a new friend",
     "category": "Social",
     "levelUnlocked": 27,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 3,
@@ -2607,10 +2607,10 @@
     "task": "Practise parking between road markings",
     "category": "Driving",
     "levelUnlocked": 28,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -2649,10 +2649,10 @@
     "task": "Coordinate freestyle breathing for ten metres",
     "category": "Swimming",
     "levelUnlocked": 29,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -2691,10 +2691,10 @@
     "task": "Start a conversation while waiting in a public place",
     "category": "Social",
     "levelUnlocked": 29,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -2859,10 +2859,10 @@
     "task": "Practise reversing into a parking space",
     "category": "Driving",
     "levelUnlocked": 31,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -2985,10 +2985,10 @@
     "task": "Cook a meal with a friend as your kitchen teammate",
     "category": "Cooking",
     "levelUnlocked": 32,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3090,10 +3090,10 @@
     "task": "Practise parallel parking",
     "category": "Driving",
     "levelUnlocked": 34,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3111,10 +3111,10 @@
     "task": "Swim twenty-five metres without stopping",
     "category": "Swimming",
     "levelUnlocked": 34,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3153,10 +3153,10 @@
     "task": "Host a themed group chat or video call",
     "category": "Social",
     "levelUnlocked": 34,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3237,10 +3237,10 @@
     "task": "Record yourself performing a song or poem",
     "category": "Skills",
     "levelUnlocked": 35,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3258,11 +3258,11 @@
     "task": "Use a spreadsheet to track personal expenses",
     "category": "Skills",
     "levelUnlocked": 36,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -3405,10 +3405,10 @@
     "task": "Take a no-phone walk through a new area",
     "category": "Travelling",
     "levelUnlocked": 37,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3552,10 +3552,10 @@
     "task": "Tread water for one minute",
     "category": "Swimming",
     "levelUnlocked": 39,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3762,10 +3762,10 @@
     "task": "Drive in moderate traffic with supervision",
     "category": "Driving",
     "levelUnlocked": 42,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3972,10 +3972,10 @@
     "task": "Practise changing lanes using mirrors and blind-spot checks",
     "category": "Driving",
     "levelUnlocked": 44,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -3993,10 +3993,10 @@
     "task": "Swim four different short stroke combinations",
     "category": "Swimming",
     "levelUnlocked": 44,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -4014,10 +4014,10 @@
     "task": "Swim fifty metres without stopping",
     "category": "Swimming",
     "levelUnlocked": 45,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -4350,10 +4350,10 @@
     "task": "Prepare lunch for the next three workdays",
     "category": "Cooking",
     "levelUnlocked": 49,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -4413,11 +4413,11 @@
     "task": "Navigate a familiar trip without spoken GPS directions",
     "category": "Driving",
     "levelUnlocked": 49,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -4497,11 +4497,11 @@
     "task": "Organize a bring-your-own-snack hangout",
     "category": "Social",
     "levelUnlocked": 50,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 4,
@@ -4518,10 +4518,10 @@
     "task": "Invite someone new to join a group activity",
     "category": "Social",
     "levelUnlocked": 51,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -4602,11 +4602,11 @@
     "task": "Start a small herb garden",
     "category": "Skills",
     "levelUnlocked": 52,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -4686,10 +4686,10 @@
     "task": "Swim one hundred metres at a steady pace",
     "category": "Swimming",
     "levelUnlocked": 53,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -4833,11 +4833,11 @@
     "task": "Create a cosy outdoor or blanket-fort movie night",
     "category": "Movies",
     "levelUnlocked": 54,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 2,
@@ -4917,11 +4917,11 @@
     "task": "Join a book club discussion",
     "category": "Books",
     "levelUnlocked": 55,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -5001,10 +5001,10 @@
     "task": "Host a taco, roti, or wrap-building night",
     "category": "Cooking",
     "levelUnlocked": 56,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -5085,11 +5085,11 @@
     "task": "Complete three different parking styles in one session",
     "category": "Driving",
     "levelUnlocked": 57,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -5274,11 +5274,11 @@
     "task": "Build a simple personal website",
     "category": "Skills",
     "levelUnlocked": 60,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -5316,10 +5316,10 @@
     "task": "Practise defensive driving techniques",
     "category": "Driving",
     "levelUnlocked": 60,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -5337,11 +5337,11 @@
     "task": "Complete a relaxed twenty-minute pool session",
     "category": "Swimming",
     "levelUnlocked": 60,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -5484,11 +5484,11 @@
     "task": "Learn the basics of investing and compound interest",
     "category": "Skills",
     "levelUnlocked": 62,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -5547,10 +5547,10 @@
     "task": "Complete a mock driving examination",
     "category": "Driving",
     "levelUnlocked": 63,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -5568,10 +5568,10 @@
     "task": "Swim five hundred metres without stopping",
     "category": "Swimming",
     "levelUnlocked": 63,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -5631,10 +5631,10 @@
     "task": "Offer practical help to someone who needs it",
     "category": "Social",
     "levelUnlocked": 64,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -5673,11 +5673,11 @@
     "task": "Turn leftover ingredients into a new meal",
     "category": "Cooking",
     "levelUnlocked": 64,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -5694,10 +5694,10 @@
     "task": "Make a healthy homemade snack",
     "category": "Cooking",
     "levelUnlocked": 65,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -5841,11 +5841,11 @@
     "task": "Attend a class purely to meet people with similar interests",
     "category": "Social",
     "levelUnlocked": 66,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 4,
@@ -5925,11 +5925,11 @@
     "task": "Build something useful without following a full tutorial",
     "category": "Skills",
     "levelUnlocked": 67,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -6009,10 +6009,10 @@
     "task": "Swim to a rhythm without rushing",
     "category": "Swimming",
     "levelUnlocked": 68,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -6093,11 +6093,11 @@
     "task": "Take a scenic journey with no rushed schedule",
     "category": "Travelling",
     "levelUnlocked": 69,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 2,
@@ -6471,10 +6471,10 @@
     "task": "Swim one kilometre at a steady pace",
     "category": "Swimming",
     "levelUnlocked": 74,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -6513,11 +6513,11 @@
     "task": "Create a team challenge with friends",
     "category": "Social",
     "levelUnlocked": 74,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 4,
@@ -6534,10 +6534,10 @@
     "task": "Volunteer alongside people you do not know",
     "category": "Social",
     "levelUnlocked": 75,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -6723,10 +6723,10 @@
     "task": "Have a meaningful conversation about personal goals",
     "category": "Social",
     "levelUnlocked": 77,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -6744,11 +6744,11 @@
     "task": "Complete a mini pool circuit of four skills",
     "category": "Swimming",
     "levelUnlocked": 77,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -6786,10 +6786,10 @@
     "task": "Create a weekly meal plan within a budget",
     "category": "Cooking",
     "levelUnlocked": 78,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -6807,11 +6807,11 @@
     "task": "Create a personal emergency plan",
     "category": "Skills",
     "levelUnlocked": 78,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -6912,11 +6912,11 @@
     "task": "Spend an afternoon reading in a public park",
     "category": "Books",
     "levelUnlocked": 79,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -7437,11 +7437,11 @@
     "task": "Create a six-month savings plan",
     "category": "Skills",
     "levelUnlocked": 86,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -7689,10 +7689,10 @@
     "task": "Drive responsibly for one month without distractions",
     "category": "Driving",
     "levelUnlocked": 89,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -7794,10 +7794,10 @@
     "task": "Prepare five freezer-friendly meals",
     "category": "Cooking",
     "levelUnlocked": 90,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -7857,11 +7857,11 @@
     "task": "Create a meaningful travel journal from a major trip",
     "category": "Travelling",
     "levelUnlocked": 91,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 3,
@@ -7941,10 +7941,10 @@
     "task": "Ask someone you admire to mentor you",
     "category": "Social",
     "levelUnlocked": 92,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -7962,11 +7962,11 @@
     "task": "Watch eight acclaimed films from eight different countries",
     "category": "Movies",
     "levelUnlocked": 92,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 2,
@@ -8067,10 +8067,10 @@
     "task": "Mentor or encourage someone less experienced",
     "category": "Social",
     "levelUnlocked": 93,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -8424,10 +8424,10 @@
     "task": "Build a new friendship through consistent effort",
     "category": "Social",
     "levelUnlocked": 97,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -8466,10 +8466,10 @@
     "task": "Complete a seven-day no-takeout cooking challenge",
     "category": "Cooking",
     "levelUnlocked": 98,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
-      "weekly": true,
+      "weekly": false,
       "monthly": false
     },
     "stats": {
@@ -8487,11 +8487,11 @@
     "task": "Build a portfolio demonstrating three practical skills",
     "category": "Skills",
     "levelUnlocked": 98,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,
@@ -8718,11 +8718,11 @@
     "task": "Read twelve books from twelve different countries",
     "category": "Books",
     "levelUnlocked": 100,
-    "repeated": true,
+    "repeated": false,
     "repeatedTime": {
       "daily": false,
       "weekly": false,
-      "monthly": true
+      "monthly": false
     },
     "stats": {
       "CHA": 0,

@@ -10,18 +10,18 @@ export const dynamic = "force-dynamic";
 
 export default async function TodayPage() {
   const user = (await currentUser())!;
-  const { preset, custom } = await allTasksFor(user.id, user.level);
+  const { preset, custom } = await allTasksFor(user.id, user.level, user.hiddenTasks ?? []);
   const history = await recentCompletions(user.id, 8);
 
   const startOfDay = periodStart("daily")!;
   const doneToday = history.filter((c) => new Date(c.completedAt) >= startOfDay).length;
 
-  const repeating = [...custom, ...preset].filter((t) => t.repeat !== "once" && t.unlocked);
+  const repeating = [...custom, ...preset].filter((t) => t.repeat !== "once" && t.unlocked && !t.hidden);
   const dueNow = repeating.filter((t) => t.available);
 
   // A short rotating shortlist of one-off tasks at the player's level.
   const shortlist = preset
-    .filter((t) => t.repeat === "once" && t.available)
+    .filter((t) => t.repeat === "once" && t.available && !t.hidden)
     .sort((a, b) => b.levelUnlocked - a.levelUnlocked)
     .slice(0, 6);
 
@@ -45,6 +45,7 @@ export default async function TodayPage() {
       </div>
       <TaskList
         tasks={JSON.parse(JSON.stringify(dueNow))}
+        manageable
         emptyLine="Every repeating task is done. Come back when the timer rolls over."
       />
 
@@ -52,7 +53,7 @@ export default async function TodayPage() {
         <h2>Try one of these</h2>
         <span>level {user.level}</span>
       </div>
-      <TaskList tasks={JSON.parse(JSON.stringify(shortlist))} emptyLine="Level up to unlock more tasks." />
+      <TaskList tasks={JSON.parse(JSON.stringify(shortlist))} manageable emptyLine="Level up to unlock more tasks." />
 
       <div className="section-head">
         <h2>Recently done</h2>

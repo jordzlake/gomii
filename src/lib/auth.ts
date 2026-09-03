@@ -20,6 +20,7 @@ export type UserDoc = {
   streak: number;
   lastCompletedOn: string | null;
   trackFriends: boolean;
+  hiddenTasks: string[];
   cheersReceived: number;
   friendsSeenAt: Date | null;
   createdAt: Date;
@@ -37,6 +38,7 @@ export function newUserDefaults(avatarId: string) {
     streak: 0,
     lastCompletedOn: null as string | null,
     trackFriends: true,
+    hiddenTasks: [] as string[],
     cheersReceived: 0,
     friendsSeenAt: null as Date | null,
     createdAt: new Date(),

@@ -75,25 +75,37 @@ export async function lastCompletions(userId: string): Promise<Record<string, Da
   return Object.fromEntries(rows.map((r) => [r._id, r.last]));
 }
 
-export type TaskView = Task & { available: boolean; unlocked: boolean; lastDone: Date | null };
+export type TaskView = Task & {
+  available: boolean;
+  unlocked: boolean;
+  hidden: boolean;
+  lastDone: Date | null;
+};
 
-export function decorate(tasks: Task[], level: number, last: Record<string, Date>): TaskView[] {
+export function decorate(
+  tasks: Task[],
+  level: number,
+  last: Record<string, Date>,
+  hidden: Set<string> = new Set()
+): TaskView[] {
   return tasks.map((t) => {
     const lastDone = last[t.key] ?? null;
     return {
       ...t,
       lastDone,
+      hidden: hidden.has(t.key),
       unlocked: t.levelUnlocked <= level,
       available: t.levelUnlocked <= level && isAvailable(t.repeat, lastDone),
     };
   });
 }
 
-export async function allTasksFor(userId: string, level: number) {
+export async function allTasksFor(userId: string, level: number, hiddenKeys: string[] = []) {
   const [custom, last] = await Promise.all([customTasks(userId), lastCompletions(userId)]);
+  const hidden = new Set(hiddenKeys);
   return {
-    preset: decorate(PRESET_TASKS, level, last),
-    custom: decorate(custom, level, last),
+    preset: decorate(PRESET_TASKS, level, last, hidden),
+    custom: decorate(custom, level, last, hidden),
   };
 }
 
