@@ -11,11 +11,13 @@ export function Icon({ name, size = 24, alt = "" }: { name: IconName; size?: num
 /**
  * Plays one row of a character tile map. Frame 0 is the resting pose; the row
  * cycles only while `playing` is true, so the screen stays calm by default.
+ * The default rate is deliberately slow: the character reads as alive rather
+ * than busy, and the pixel art has time to land.
  */
 export function CharacterSprite({
   avatarId,
   playing = false,
-  fps = 6,
+  fps = 3,
   className = "",
   size = 132,
 }: {

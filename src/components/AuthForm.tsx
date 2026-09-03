@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { AVATARS, avatarFrame } from "@/data/sprites";
+import { AVATARS, avatarFrame, getAvatar } from "@/data/sprites";
 
 export default function AuthForm({ mode }: { mode: "login" | "register" }) {
   const router = useRouter();
@@ -14,7 +14,7 @@ export default function AuthForm({ mode }: { mode: "login" | "register" }) {
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
 
-  const chosen = AVATARS.find((a) => a.id === avatarId)!;
+  const chosen = getAvatar(avatarId);
 
   async function submit(e: React.FormEvent) {
     e.preventDefault();

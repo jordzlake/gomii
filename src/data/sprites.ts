@@ -45,7 +45,11 @@ const avatarNames: Record<string, [string, string][]> = {
   ],
 };
 
-export const AVATARS: Avatar[] = Object.entries(avatarNames).flatMap(([sheet, rows]) =>
+/** Rows that stay cut out of the sheet but are not offered as characters. */
+const RETIRED = new Set(["char1_r2", "char4_r2", "char4_r5"]);
+
+/** Every row in the tile maps, retired ones included, so old saves still resolve. */
+export const ALL_AVATARS: Avatar[] = Object.entries(avatarNames).flatMap(([sheet, rows]) =>
   rows.map(([name, blurb], row) => ({
     id: `${sheet}_r${row}`,
     name,
@@ -55,6 +59,14 @@ export const AVATARS: Avatar[] = Object.entries(avatarNames).flatMap(([sheet, ro
     frames: 5,
   }))
 );
+
+/** The characters a player can pick. */
+export const AVATARS: Avatar[] = ALL_AVATARS.filter((a) => !RETIRED.has(a.id));
+
+/** Resolves any stored id, falling back to the first playable character. */
+export function getAvatar(id: string): Avatar {
+  return ALL_AVATARS.find((a) => a.id === id) ?? AVATARS[0];
+}
 
 export function avatarFrame(id: string, frame: number) {
   const [sheet, row] = id.split("_");

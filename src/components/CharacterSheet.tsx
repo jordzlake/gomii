@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { CharacterSprite, EffectSprite, Icon } from "./Sprite";
 import Meter from "./Meter";
 import { STATS, StatKey, xpForNextLevel } from "@/lib/stats";
-import { AVATARS, avatarFrame } from "@/data/sprites";
+import { AVATARS, avatarFrame, getAvatar } from "@/data/sprites";
 
 export default function CharacterSheet({
   username,
@@ -30,7 +30,7 @@ export default function CharacterSheet({
   const [current, setCurrent] = useState(avatarId);
   const [picking, setPicking] = useState(false);
   const highest = Math.max(10, ...STATS.map((s) => stats[s.key] ?? 0));
-  const avatar = AVATARS.find((a) => a.id === current)!;
+  const avatar = getAvatar(current);
 
   async function choose(id: string) {
     setCurrent(id);
@@ -51,7 +51,7 @@ export default function CharacterSheet({
   return (
     <>
       <section className="char-hero">
-        <CharacterSprite avatarId={current} playing size={148} className="sprite anim-float" />
+        <CharacterSprite avatarId={current} playing fps={2.5} size={148} className="sprite anim-float" />
         <div className="center">
           <h2>{username}</h2>
           <div className="tiny muted" style={{ marginTop: 6 }}>{avatar.name} · Level {level}</div>

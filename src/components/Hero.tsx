@@ -74,7 +74,7 @@ export default function Hero({
       </div>
 
       <div className="diamond diamond--lg" style={{ ["--tint" as string]: "var(--violet)" }}>
-        <CharacterSprite avatarId={avatarId} playing size={110} className="anim-float" />
+        <CharacterSprite avatarId={avatarId} playing fps={2.5} size={110} className="anim-float" />
       </div>
     </section>
   );
