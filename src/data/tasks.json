@@ -1,0 +1,8822 @@
+[
+  {
+    "task": "Boil an egg to your preferred doneness",
+    "category": "Cooking",
+    "levelUnlocked": 1,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn basic clothing repair",
+    "category": "Skills",
+    "levelUnlocked": 1,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Explore a neighbourhood you have never visited",
+    "category": "Travelling",
+    "levelUnlocked": 1,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Build a colourful snack plate using five colours",
+    "category": "Cooking",
+    "levelUnlocked": 1,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 1,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a cosy reading corner",
+    "category": "Books",
+    "levelUnlocked": 1,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn the main controls of a parked car",
+    "category": "Driving",
+    "levelUnlocked": 2,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Become comfortable standing in shallow water",
+    "category": "Swimming",
+    "levelUnlocked": 2,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Little Prince",
+    "category": "Books",
+    "levelUnlocked": 2,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Fold an origami animal",
+    "category": "Skills",
+    "levelUnlocked": 2,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Ask someone what made them smile today",
+    "category": "Social",
+    "levelUnlocked": 2,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Smile and greet someone you regularly see",
+    "category": "Social",
+    "levelUnlocked": 3,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Toy Story",
+    "category": "Movies",
+    "levelUnlocked": 3,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make a simple sandwich with fresh ingredients",
+    "category": "Cooking",
+    "levelUnlocked": 3,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch the sunrise from a new location",
+    "category": "Travelling",
+    "levelUnlocked": 3,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch a comedy chosen by someone else",
+    "category": "Movies",
+    "levelUnlocked": 3,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Organize your digital files into clear folders",
+    "category": "Skills",
+    "levelUnlocked": 4,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Visit a local museum or historic site",
+    "category": "Travelling",
+    "levelUnlocked": 4,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Study the road signs used in your country",
+    "category": "Driving",
+    "levelUnlocked": 4,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make breakfast for dinner",
+    "category": "Cooking",
+    "levelUnlocked": 4,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 1,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Name every dashboard warning light you should know",
+    "category": "Driving",
+    "levelUnlocked": 4,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise controlled breathing in the water",
+    "category": "Swimming",
+    "levelUnlocked": 5,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Alchemist",
+    "category": "Books",
+    "levelUnlocked": 5,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Introduce yourself to one new person",
+    "category": "Social",
+    "levelUnlocked": 5,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make five giant bubble rings or bubble trails underwater",
+    "category": "Swimming",
+    "levelUnlocked": 5,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Start a compliment chain with three people",
+    "category": "Social",
+    "levelUnlocked": 5,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Spirited Away",
+    "category": "Movies",
+    "levelUnlocked": 6,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Prepare oatmeal with fruit",
+    "category": "Cooking",
+    "levelUnlocked": 6,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a realistic monthly budget",
+    "category": "Skills",
+    "levelUnlocked": 6,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn one simple magic trick",
+    "category": "Skills",
+    "levelUnlocked": 6,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read a funny short story aloud",
+    "category": "Books",
+    "levelUnlocked": 6,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Take a day trip using public transport",
+    "category": "Travelling",
+    "levelUnlocked": 7,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Adjust the seat, mirrors, and steering position correctly",
+    "category": "Driving",
+    "levelUnlocked": 7,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Float on your back with support",
+    "category": "Swimming",
+    "levelUnlocked": 7,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a local photo scavenger hunt",
+    "category": "Travelling",
+    "levelUnlocked": 7,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Have a movie night with homemade snacks",
+    "category": "Movies",
+    "levelUnlocked": 7,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Animal Farm",
+    "category": "Books",
+    "levelUnlocked": 8,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Ask someone an open-ended question",
+    "category": "Social",
+    "levelUnlocked": 8,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Truman Show",
+    "category": "Movies",
+    "levelUnlocked": 8,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a sandwich worthy of its own menu",
+    "category": "Cooking",
+    "levelUnlocked": 8,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 1,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook scrambled eggs without overcooking them",
+    "category": "Cooking",
+    "levelUnlocked": 9,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn basic first aid",
+    "category": "Skills",
+    "levelUnlocked": 9,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan a local outing within a fixed budget",
+    "category": "Travelling",
+    "levelUnlocked": 9,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Build a calm driving playlist before starting the car",
+    "category": "Driving",
+    "levelUnlocked": 9,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Use a question jar during a conversation",
+    "category": "Social",
+    "levelUnlocked": 9,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise smooth starting and stopping in a safe area",
+    "category": "Driving",
+    "levelUnlocked": 10,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Float on your front with support",
+    "category": "Swimming",
+    "levelUnlocked": 10,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Old Man and the Sea",
+    "category": "Books",
+    "levelUnlocked": 10,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Draw a tiny comic about your day",
+    "category": "Skills",
+    "levelUnlocked": 10,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Float like a star for thirty calm seconds",
+    "category": "Swimming",
+    "levelUnlocked": 10,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Give someone a sincere compliment",
+    "category": "Social",
+    "levelUnlocked": 11,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Iron Giant",
+    "category": "Movies",
+    "levelUnlocked": 11,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make a fresh garden salad",
+    "category": "Cooking",
+    "levelUnlocked": 11,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swap a favourite book with a friend",
+    "category": "Books",
+    "levelUnlocked": 11,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Type for fifteen minutes without looking at the keyboard",
+    "category": "Skills",
+    "levelUnlocked": 12,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Try a restaurant serving an unfamiliar cuisine",
+    "category": "Travelling",
+    "levelUnlocked": 12,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise steering through wide turns",
+    "category": "Driving",
+    "levelUnlocked": 12,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Be a tourist in your own town for one afternoon",
+    "category": "Travelling",
+    "levelUnlocked": 12,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch a film without seeing its trailer first",
+    "category": "Movies",
+    "levelUnlocked": 12,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Glide through the water for three metres",
+    "category": "Swimming",
+    "levelUnlocked": 13,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Giver",
+    "category": "Books",
+    "levelUnlocked": 13,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Call a friend or relative you have not spoken to recently",
+    "category": "Social",
+    "levelUnlocked": 13,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Blend a smoothie using a new fruit",
+    "category": "Cooking",
+    "levelUnlocked": 13,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 1,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Inside Out",
+    "category": "Movies",
+    "levelUnlocked": 14,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook rice without using a rice cooker",
+    "category": "Cooking",
+    "levelUnlocked": 14,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to use a fire extinguisher safely",
+    "category": "Skills",
+    "levelUnlocked": 14,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise the smoothest safe stop you can manage",
+    "category": "Driving",
+    "levelUnlocked": 14,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Invite someone to a quick snack break",
+    "category": "Social",
+    "levelUnlocked": 14,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Visit a beach, park, or nature reserve",
+    "category": "Travelling",
+    "levelUnlocked": 15,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Check tyres, lights, mirrors, and fluids before driving",
+    "category": "Driving",
+    "levelUnlocked": 15,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn how to stand up safely after floating",
+    "category": "Swimming",
+    "levelUnlocked": 15,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn a thirty-second dance routine",
+    "category": "Skills",
+    "levelUnlocked": 15,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Tuesdays with Morrie",
+    "category": "Books",
+    "levelUnlocked": 16,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Have a ten-minute conversation without checking your phone",
+    "category": "Social",
+    "levelUnlocked": 16,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Princess Bride",
+    "category": "Movies",
+    "levelUnlocked": 16,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Race a floating toy across the shallow end",
+    "category": "Swimming",
+    "levelUnlocked": 16,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Prepare a balanced breakfast",
+    "category": "Cooking",
+    "levelUnlocked": 17,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Build a simple weekly schedule",
+    "category": "Skills",
+    "levelUnlocked": 17,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Attend a cultural festival",
+    "category": "Travelling",
+    "levelUnlocked": 17,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Take a ferry, water taxi, or scenic boat ride",
+    "category": "Travelling",
+    "levelUnlocked": 17,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch a classic silent film",
+    "category": "Movies",
+    "levelUnlocked": 17,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise reversing in a straight line",
+    "category": "Driving",
+    "levelUnlocked": 18,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Kick while holding the pool edge",
+    "category": "Swimming",
+    "levelUnlocked": 18,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The House on Mango Street",
+    "category": "Books",
+    "levelUnlocked": 18,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Choose your next book using genre roulette",
+    "category": "Books",
+    "levelUnlocked": 18,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn and remember three new people's names",
+    "category": "Social",
+    "levelUnlocked": 19,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Groundhog Day",
+    "category": "Movies",
+    "levelUnlocked": 19,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to cook egg fried rice",
+    "category": "Cooking",
+    "levelUnlocked": 19,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Hold a blind taste test with three ingredients",
+    "category": "Cooking",
+    "levelUnlocked": 19,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Change a light bulb and identify the correct replacement",
+    "category": "Skills",
+    "levelUnlocked": 20,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Navigate somewhere new without turn-by-turn directions",
+    "category": "Travelling",
+    "levelUnlocked": 20,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive on a quiet residential road with supervision",
+    "category": "Driving",
+    "levelUnlocked": 20,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive to a new café using a planned route",
+    "category": "Driving",
+    "levelUnlocked": 20,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan a board-game night",
+    "category": "Social",
+    "levelUnlocked": 20,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim five metres using any stroke",
+    "category": "Swimming",
+    "levelUnlocked": 21,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Hobbit",
+    "category": "Books",
+    "levelUnlocked": 21,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Invite a coworker or classmate to have lunch",
+    "category": "Social",
+    "levelUnlocked": 21,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make a useful item from recycled materials",
+    "category": "Skills",
+    "levelUnlocked": 21,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Pursuit of Happyness",
+    "category": "Movies",
+    "levelUnlocked": 22,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make homemade pancakes",
+    "category": "Cooking",
+    "levelUnlocked": 22,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to tie three useful knots",
+    "category": "Skills",
+    "levelUnlocked": 22,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim one pool length using only kicks",
+    "category": "Swimming",
+    "levelUnlocked": 22,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Take a solo day trip",
+    "category": "Travelling",
+    "levelUnlocked": 23,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise left and right turns at intersections",
+    "category": "Driving",
+    "levelUnlocked": 23,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Tread water for fifteen seconds",
+    "category": "Swimming",
+    "levelUnlocked": 23,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 1,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Find a hidden local café or food stall",
+    "category": "Travelling",
+    "levelUnlocked": 23,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch a documentary about an unfamiliar subject",
+    "category": "Movies",
+    "levelUnlocked": 23,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Diary of a Young Girl",
+    "category": "Books",
+    "levelUnlocked": 24,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 1,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Ask someone about a hobby they enjoy",
+    "category": "Social",
+    "levelUnlocked": 24,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Good Will Hunting",
+    "category": "Movies",
+    "levelUnlocked": 24,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read a graphic novel in one weekend",
+    "category": "Books",
+    "levelUnlocked": 24,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Prepare a basic pasta dish",
+    "category": "Cooking",
+    "levelUnlocked": 25,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a strong password system",
+    "category": "Skills",
+    "levelUnlocked": 25,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Spend a weekend exploring your own country",
+    "category": "Travelling",
+    "levelUnlocked": 25,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Pack a picnic and enjoy it outdoors",
+    "category": "Cooking",
+    "levelUnlocked": 25,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn correct lane positioning",
+    "category": "Driving",
+    "levelUnlocked": 26,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn the basic freestyle arm movement",
+    "category": "Swimming",
+    "levelUnlocked": 26,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Man's Search for Meaning",
+    "category": "Books",
+    "levelUnlocked": 26,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a perfect parking challenge three times",
+    "category": "Driving",
+    "levelUnlocked": 26,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Attend a small social gathering",
+    "category": "Social",
+    "levelUnlocked": 27,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Hidden Figures",
+    "category": "Movies",
+    "levelUnlocked": 27,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Roast a tray of vegetables",
+    "category": "Cooking",
+    "levelUnlocked": 27,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Share three songs with a new friend",
+    "category": "Social",
+    "levelUnlocked": 27,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Iron or steam an outfit properly",
+    "category": "Skills",
+    "levelUnlocked": 28,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Pack everything needed for a weekend in one bag",
+    "category": "Travelling",
+    "levelUnlocked": 28,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise parking between road markings",
+    "category": "Driving",
+    "levelUnlocked": 28,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Identify five constellations or stars",
+    "category": "Skills",
+    "levelUnlocked": 28,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Coordinate freestyle breathing for ten metres",
+    "category": "Swimming",
+    "levelUnlocked": 29,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Four Agreements",
+    "category": "Books",
+    "levelUnlocked": 29,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Start a conversation while waiting in a public place",
+    "category": "Social",
+    "levelUnlocked": 29,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn a safe underwater somersault",
+    "category": "Swimming",
+    "levelUnlocked": 29,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Secret Life of Walter Mitty",
+    "category": "Movies",
+    "levelUnlocked": 30,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook a pot of lentils or beans",
+    "category": "Cooking",
+    "levelUnlocked": 30,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn basic photo composition",
+    "category": "Skills",
+    "levelUnlocked": 30,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Visit three attractions in one adventurous day",
+    "category": "Travelling",
+    "levelUnlocked": 30,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch a musical and sing along to one song afterward",
+    "category": "Movies",
+    "levelUnlocked": 30,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a travel emergency contact plan",
+    "category": "Travelling",
+    "levelUnlocked": 31,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise reversing into a parking space",
+    "category": "Driving",
+    "levelUnlocked": 31,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn the basic backstroke movement",
+    "category": "Swimming",
+    "levelUnlocked": 31,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read a collection of poems from a new writer",
+    "category": "Books",
+    "levelUnlocked": 31,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Atomic Habits",
+    "category": "Books",
+    "levelUnlocked": 32,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Share a personal story with someone you trust",
+    "category": "Social",
+    "levelUnlocked": 32,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Shawshank Redemption",
+    "category": "Movies",
+    "levelUnlocked": 32,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook a meal with a friend as your kitchen teammate",
+    "category": "Cooking",
+    "levelUnlocked": 32,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make a homemade soup",
+    "category": "Cooking",
+    "levelUnlocked": 33,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Fix a loose button and small clothing tear",
+    "category": "Skills",
+    "levelUnlocked": 33,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Book your own accommodation after comparing options",
+    "category": "Travelling",
+    "levelUnlocked": 33,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Pick up groceries for someone who needs help",
+    "category": "Driving",
+    "levelUnlocked": 33,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise parallel parking",
+    "category": "Driving",
+    "levelUnlocked": 34,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim twenty-five metres without stopping",
+    "category": "Swimming",
+    "levelUnlocked": 34,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Psychology of Money",
+    "category": "Books",
+    "levelUnlocked": 34,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Host a themed group chat or video call",
+    "category": "Social",
+    "levelUnlocked": 34,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Ask a friend for honest feedback",
+    "category": "Social",
+    "levelUnlocked": 35,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Dead Poets Society",
+    "category": "Movies",
+    "levelUnlocked": 35,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn three safe knife cuts",
+    "category": "Cooking",
+    "levelUnlocked": 35,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Record yourself performing a song or poem",
+    "category": "Skills",
+    "levelUnlocked": 35,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Use a spreadsheet to track personal expenses",
+    "category": "Skills",
+    "levelUnlocked": 36,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan a complete three-day itinerary",
+    "category": "Travelling",
+    "levelUnlocked": 36,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive safely through a roundabout",
+    "category": "Driving",
+    "levelUnlocked": 36,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Play a supervised pool game with friends",
+    "category": "Swimming",
+    "levelUnlocked": 36,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Retrieve an object from shallow water",
+    "category": "Swimming",
+    "levelUnlocked": 37,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Five People You Meet in Heaven",
+    "category": "Books",
+    "levelUnlocked": 37,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Introduce two people who may get along",
+    "category": "Social",
+    "levelUnlocked": 37,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Take a no-phone walk through a new area",
+    "category": "Travelling",
+    "levelUnlocked": 37,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Life Is Beautiful",
+    "category": "Movies",
+    "levelUnlocked": 38,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook chicken safely and keep it moist",
+    "category": "Cooking",
+    "levelUnlocked": 38,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to read a basic map without GPS",
+    "category": "Skills",
+    "levelUnlocked": 38,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch a subtitled film in a language new to you",
+    "category": "Movies",
+    "levelUnlocked": 38,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Take a trip with friends and share responsibilities",
+    "category": "Travelling",
+    "levelUnlocked": 39,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise hill starts without rolling backward",
+    "category": "Driving",
+    "levelUnlocked": 39,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Tread water for one minute",
+    "category": "Swimming",
+    "levelUnlocked": 39,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read a mystery without looking up the ending",
+    "category": "Books",
+    "levelUnlocked": 39,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Things Fall Apart",
+    "category": "Books",
+    "levelUnlocked": 40,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Join a club, class, or community group",
+    "category": "Social",
+    "levelUnlocked": 40,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Cinema Paradiso",
+    "category": "Movies",
+    "levelUnlocked": 40,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a homemade pizza with an unusual topping",
+    "category": "Cooking",
+    "levelUnlocked": 40,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 2,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Prepare a vegetarian dinner",
+    "category": "Cooking",
+    "levelUnlocked": 41,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Give a clear two-minute presentation",
+    "category": "Skills",
+    "levelUnlocked": 41,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Visit a neighbouring island, state, or region",
+    "category": "Travelling",
+    "levelUnlocked": 41,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Take a relaxed scenic drive with a trusted passenger",
+    "category": "Driving",
+    "levelUnlocked": 41,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive in moderate traffic with supervision",
+    "category": "Driving",
+    "levelUnlocked": 42,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn the basic breaststroke movement",
+    "category": "Swimming",
+    "levelUnlocked": 42,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read To Kill a Mockingbird",
+    "category": "Books",
+    "levelUnlocked": 42,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Introduce yourself to someone wearing something interesting",
+    "category": "Social",
+    "levelUnlocked": 42,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Attend an event where you know only one person",
+    "category": "Social",
+    "levelUnlocked": 43,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch 12 Angry Men",
+    "category": "Movies",
+    "levelUnlocked": 43,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Bake a simple loaf of bread",
+    "category": "Cooking",
+    "levelUnlocked": 43,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a handmade gift for someone",
+    "category": "Skills",
+    "levelUnlocked": 43,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a professional résumé",
+    "category": "Skills",
+    "levelUnlocked": 44,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Use a few local phrases while travelling",
+    "category": "Travelling",
+    "levelUnlocked": 44,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise changing lanes using mirrors and blind-spot checks",
+    "category": "Driving",
+    "levelUnlocked": 44,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim four different short stroke combinations",
+    "category": "Swimming",
+    "levelUnlocked": 44,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim fifty metres without stopping",
+    "category": "Swimming",
+    "levelUnlocked": 45,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Fahrenheit 451",
+    "category": "Books",
+    "levelUnlocked": 45,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Have a respectful conversation with someone older than you",
+    "category": "Social",
+    "levelUnlocked": 45,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan a spontaneous day trip using a coin toss",
+    "category": "Travelling",
+    "levelUnlocked": 45,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Rear Window",
+    "category": "Movies",
+    "levelUnlocked": 46,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make a sauce from scratch",
+    "category": "Cooking",
+    "levelUnlocked": 46,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 1,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn basic home tool safety",
+    "category": "Skills",
+    "levelUnlocked": 46,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch two films by the same director",
+    "category": "Movies",
+    "levelUnlocked": 46,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Travel with only carry-on luggage",
+    "category": "Travelling",
+    "levelUnlocked": 47,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive safely at night with supervision",
+    "category": "Driving",
+    "levelUnlocked": 47,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise a safe feet-first water entry",
+    "category": "Swimming",
+    "levelUnlocked": 47,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read the book behind a movie you enjoy",
+    "category": "Books",
+    "levelUnlocked": 47,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Midnight Library",
+    "category": "Books",
+    "levelUnlocked": 48,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Have a respectful conversation with someone younger than you",
+    "category": "Social",
+    "levelUnlocked": 48,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 1,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Seven Samurai",
+    "category": "Movies",
+    "levelUnlocked": 48,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Bake and decorate something just for fun",
+    "category": "Cooking",
+    "levelUnlocked": 48,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Prepare lunch for the next three workdays",
+    "category": "Cooking",
+    "levelUnlocked": 49,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Change a tyre with supervision",
+    "category": "Skills",
+    "levelUnlocked": 49,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Take an international flight",
+    "category": "Travelling",
+    "levelUnlocked": 49,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Navigate a familiar trip without spoken GPS directions",
+    "category": "Driving",
+    "levelUnlocked": 49,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive safely in rain with supervision",
+    "category": "Driving",
+    "levelUnlocked": 50,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn how to help someone without entering the water",
+    "category": "Swimming",
+    "levelUnlocked": 50,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Book Thief",
+    "category": "Books",
+    "levelUnlocked": 50,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Organize a bring-your-own-snack hangout",
+    "category": "Social",
+    "levelUnlocked": 50,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Invite someone new to join a group activity",
+    "category": "Social",
+    "levelUnlocked": 51,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Rashomon",
+    "category": "Movies",
+    "levelUnlocked": 51,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook a one-pot family meal",
+    "category": "Cooking",
+    "levelUnlocked": 51,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to juggle three objects",
+    "category": "Skills",
+    "levelUnlocked": 51,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Start a small herb garden",
+    "category": "Skills",
+    "levelUnlocked": 52,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Visit a country with a different primary language",
+    "category": "Travelling",
+    "levelUnlocked": 52,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan and drive an unfamiliar route",
+    "category": "Driving",
+    "levelUnlocked": 52,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Try beginner snorkelling in a safe location",
+    "category": "Swimming",
+    "levelUnlocked": 52,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 2,
+      "SUC": 0,
+      "SKI": 2,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim one hundred metres at a steady pace",
+    "category": "Swimming",
+    "levelUnlocked": 53,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Educated",
+    "category": "Books",
+    "levelUnlocked": 53,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise disagreeing without becoming defensive",
+    "category": "Social",
+    "levelUnlocked": 53,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Collect a small memory from five places on one trip",
+    "category": "Travelling",
+    "levelUnlocked": 53,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Parasite",
+    "category": "Movies",
+    "levelUnlocked": 54,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to season food by tasting as you cook",
+    "category": "Cooking",
+    "levelUnlocked": 54,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn ten useful phrases in another language",
+    "category": "Skills",
+    "levelUnlocked": 54,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Create a cosy outdoor or blanket-fort movie night",
+    "category": "Movies",
+    "levelUnlocked": 54,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Use local public transport in another country",
+    "category": "Travelling",
+    "levelUnlocked": 55,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn what to do after a minor collision",
+    "category": "Driving",
+    "levelUnlocked": 55,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn a compact survival float",
+    "category": "Swimming",
+    "levelUnlocked": 55,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Join a book club discussion",
+    "category": "Books",
+    "levelUnlocked": 55,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Becoming",
+    "category": "Books",
+    "levelUnlocked": 56,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Apologize sincerely for a past mistake",
+    "category": "Social",
+    "levelUnlocked": 56,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Crouching Tiger, Hidden Dragon",
+    "category": "Movies",
+    "levelUnlocked": 56,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Host a taco, roti, or wrap-building night",
+    "category": "Cooking",
+    "levelUnlocked": 56,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make a meal using only pantry ingredients",
+    "category": "Cooking",
+    "levelUnlocked": 57,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Take a high-quality portrait photograph",
+    "category": "Skills",
+    "levelUnlocked": 57,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Attend a live event while travelling",
+    "category": "Travelling",
+    "levelUnlocked": 57,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete three different parking styles in one session",
+    "category": "Driving",
+    "levelUnlocked": 57,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn how to refuel or charge a vehicle safely",
+    "category": "Driving",
+    "levelUnlocked": 58,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise swimming while wearing light clothing",
+    "category": "Swimming",
+    "levelUnlocked": 58,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Born a Crime",
+    "category": "Books",
+    "levelUnlocked": 58,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan a surprise appreciation moment for someone",
+    "category": "Social",
+    "levelUnlocked": 58,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Set a respectful boundary in a relationship",
+    "category": "Social",
+    "levelUnlocked": 59,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Pan's Labyrinth",
+    "category": "Movies",
+    "levelUnlocked": 59,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook a dish from your childhood",
+    "category": "Cooking",
+    "levelUnlocked": 59,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Design a personal logo or symbol",
+    "category": "Skills",
+    "levelUnlocked": 59,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Build a simple personal website",
+    "category": "Skills",
+    "levelUnlocked": 60,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Take a responsible wildlife or nature tour",
+    "category": "Travelling",
+    "levelUnlocked": 60,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Practise defensive driving techniques",
+    "category": "Driving",
+    "levelUnlocked": 60,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a relaxed twenty-minute pool session",
+    "category": "Swimming",
+    "levelUnlocked": 60,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a supervised open-water swim",
+    "category": "Swimming",
+    "levelUnlocked": 61,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Quiet",
+    "category": "Books",
+    "levelUnlocked": 61,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Ask for help instead of struggling alone",
+    "category": "Social",
+    "levelUnlocked": 61,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Follow a local recommendation instead of a travel guide",
+    "category": "Travelling",
+    "levelUnlocked": 61,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch City of God",
+    "category": "Movies",
+    "levelUnlocked": 62,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Prepare a meal for someone with a dietary restriction",
+    "category": "Cooking",
+    "levelUnlocked": 62,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn the basics of investing and compound interest",
+    "category": "Skills",
+    "levelUnlocked": 62,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Watch a film from the year you were born",
+    "category": "Movies",
+    "levelUnlocked": 62,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan a trip around a cultural or historical theme",
+    "category": "Travelling",
+    "levelUnlocked": 63,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a mock driving examination",
+    "category": "Driving",
+    "levelUnlocked": 63,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim five hundred metres without stopping",
+    "category": "Swimming",
+    "levelUnlocked": 63,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read a memoir by someone from a different culture",
+    "category": "Books",
+    "levelUnlocked": 63,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Deep Work",
+    "category": "Books",
+    "levelUnlocked": 64,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Offer practical help to someone who needs it",
+    "category": "Social",
+    "levelUnlocked": 64,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Lives of Others",
+    "category": "Movies",
+    "levelUnlocked": 64,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Turn leftover ingredients into a new meal",
+    "category": "Cooking",
+    "levelUnlocked": 64,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make a healthy homemade snack",
+    "category": "Cooking",
+    "levelUnlocked": 65,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a beginner creative project",
+    "category": "Skills",
+    "levelUnlocked": 65,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Travel alone for a weekend",
+    "category": "Travelling",
+    "levelUnlocked": 65,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive a friend or relative to a useful appointment",
+    "category": "Driving",
+    "levelUnlocked": 65,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Pass the written driving examination",
+    "category": "Driving",
+    "levelUnlocked": 66,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to sight while swimming in open water",
+    "category": "Swimming",
+    "levelUnlocked": 66,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Creative Act",
+    "category": "Books",
+    "levelUnlocked": 66,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Attend a class purely to meet people with similar interests",
+    "category": "Social",
+    "levelUnlocked": 66,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Host a small game or movie night",
+    "category": "Social",
+    "levelUnlocked": 67,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Moonlight",
+    "category": "Movies",
+    "levelUnlocked": 67,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to debone or portion a whole chicken",
+    "category": "Cooking",
+    "levelUnlocked": 67,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Build something useful without following a full tutorial",
+    "category": "Skills",
+    "levelUnlocked": 67,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Negotiate a small purchase or service respectfully",
+    "category": "Skills",
+    "levelUnlocked": 68,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Complete a multi-city trip",
+    "category": "Travelling",
+    "levelUnlocked": 68,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a professional driving lesson",
+    "category": "Driving",
+    "levelUnlocked": 68,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim to a rhythm without rushing",
+    "category": "Swimming",
+    "levelUnlocked": 68,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a certified water-safety course",
+    "category": "Swimming",
+    "levelUnlocked": 69,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The War of Art",
+    "category": "Books",
+    "levelUnlocked": 69,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Attend a networking event and meet three people",
+    "category": "Social",
+    "levelUnlocked": 69,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Take a scenic journey with no rushed schedule",
+    "category": "Travelling",
+    "levelUnlocked": 69,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Farewell",
+    "category": "Movies",
+    "levelUnlocked": 70,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook a traditional dish from your country",
+    "category": "Cooking",
+    "levelUnlocked": 70,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn CPR through a certified course",
+    "category": "Skills",
+    "levelUnlocked": 70,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 1
+    }
+  },
+  {
+    "task": "Watch a movie known for its cinematography",
+    "category": "Movies",
+    "levelUnlocked": 70,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Stay with a local host or at a small guesthouse",
+    "category": "Travelling",
+    "levelUnlocked": 71,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Pass the practical driving examination",
+    "category": "Driving",
+    "levelUnlocked": 71,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Improve the efficiency of two swimming strokes",
+    "category": "Swimming",
+    "levelUnlocked": 71,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read a book recommended by a stranger or librarian",
+    "category": "Books",
+    "levelUnlocked": 71,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Sapiens",
+    "category": "Books",
+    "levelUnlocked": 72,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Reconnect with an old friend in person",
+    "category": "Social",
+    "levelUnlocked": 72,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Everything Everywhere All at Once",
+    "category": "Movies",
+    "levelUnlocked": 72,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 1,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a three-colour themed dinner",
+    "category": "Cooking",
+    "levelUnlocked": 72,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 3,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 2,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Prepare a three-course dinner",
+    "category": "Cooking",
+    "levelUnlocked": 73,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Repair a minor household problem",
+    "category": "Skills",
+    "levelUnlocked": 73,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Travel during an unfamiliar season or climate",
+    "category": "Travelling",
+    "levelUnlocked": 73,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan fuel, rest stops, and timing for a road trip",
+    "category": "Driving",
+    "levelUnlocked": 73,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive alone on a familiar route",
+    "category": "Driving",
+    "levelUnlocked": 74,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Swim one kilometre at a steady pace",
+    "category": "Swimming",
+    "levelUnlocked": 74,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 4,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read A Brief History of Time",
+    "category": "Books",
+    "levelUnlocked": 74,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a team challenge with friends",
+    "category": "Social",
+    "levelUnlocked": 74,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 2,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Volunteer alongside people you do not know",
+    "category": "Social",
+    "levelUnlocked": 75,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Arrival",
+    "category": "Movies",
+    "levelUnlocked": 75,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Host a small potluck meal",
+    "category": "Cooking",
+    "levelUnlocked": 75,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Deliver a five-minute speech without notes",
+    "category": "Skills",
+    "levelUnlocked": 76,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Take a train journey lasting several hours",
+    "category": "Travelling",
+    "levelUnlocked": 76,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive alone in moderate traffic",
+    "category": "Driving",
+    "levelUnlocked": 76,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a twenty-four-hour creative challenge",
+    "category": "Skills",
+    "levelUnlocked": 76,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a timed swimming challenge",
+    "category": "Swimming",
+    "levelUnlocked": 77,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 4,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Braiding Sweetgrass",
+    "category": "Books",
+    "levelUnlocked": 77,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Have a meaningful conversation about personal goals",
+    "category": "Social",
+    "levelUnlocked": 77,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a mini pool circuit of four skills",
+    "category": "Swimming",
+    "levelUnlocked": 77,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Interstellar",
+    "category": "Movies",
+    "levelUnlocked": 78,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a weekly meal plan within a budget",
+    "category": "Cooking",
+    "levelUnlocked": 78,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a personal emergency plan",
+    "category": "Skills",
+    "levelUnlocked": 78,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Spend a night somewhere with an amazing view",
+    "category": "Travelling",
+    "levelUnlocked": 78,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan an international trip within a strict budget",
+    "category": "Travelling",
+    "levelUnlocked": 79,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a one-hour motorway or highway drive",
+    "category": "Driving",
+    "levelUnlocked": 79,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Help a beginner become comfortable in shallow water",
+    "category": "Swimming",
+    "levelUnlocked": 79,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 4,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Spend an afternoon reading in a public park",
+    "category": "Books",
+    "levelUnlocked": 79,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Immortal Life of Henrietta Lacks",
+    "category": "Books",
+    "levelUnlocked": 80,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Give a short toast or speech at a gathering",
+    "category": "Social",
+    "levelUnlocked": 80,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch 2001: A Space Odyssey",
+    "category": "Movies",
+    "levelUnlocked": 80,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Host a friendly movie-awards night",
+    "category": "Movies",
+    "levelUnlocked": 80,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook a dish from a culture unfamiliar to you",
+    "category": "Cooking",
+    "levelUnlocked": 81,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a beginner coding project",
+    "category": "Skills",
+    "levelUnlocked": 81,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Visit a world-famous landmark",
+    "category": "Travelling",
+    "levelUnlocked": 81,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Run a friendly cook-off with someone",
+    "category": "Cooking",
+    "levelUnlocked": 81,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Change a flat tyre safely",
+    "category": "Driving",
+    "levelUnlocked": 82,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Pride and Prejudice",
+    "category": "Books",
+    "levelUnlocked": 82,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Spend a day with someone from a different generation",
+    "category": "Social",
+    "levelUnlocked": 82,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a sunrise or early-morning drive safely",
+    "category": "Driving",
+    "levelUnlocked": 82,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch The Godfather",
+    "category": "Movies",
+    "levelUnlocked": 83,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Make fresh pasta or dumpling dough",
+    "category": "Cooking",
+    "levelUnlocked": 83,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn to identify misinformation online",
+    "category": "Skills",
+    "levelUnlocked": 83,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Host a no-phones dinner conversation",
+    "category": "Social",
+    "levelUnlocked": 83,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a week-long solo trip",
+    "category": "Travelling",
+    "levelUnlocked": 84,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Handle an unexpected road diversion calmly",
+    "category": "Driving",
+    "levelUnlocked": 84,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Jane Eyre",
+    "category": "Books",
+    "levelUnlocked": 84,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Teach a mini class on something you enjoy",
+    "category": "Skills",
+    "levelUnlocked": 84,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Resolve a minor conflict through calm conversation",
+    "category": "Social",
+    "levelUnlocked": 85,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Schindler's List",
+    "category": "Movies",
+    "levelUnlocked": 85,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn one fermentation or pickling technique",
+    "category": "Cooking",
+    "levelUnlocked": 85,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Try a supervised night swim in a well-lit pool",
+    "category": "Swimming",
+    "levelUnlocked": 85,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 3,
+      "SUC": 0,
+      "SKI": 3,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a six-month savings plan",
+    "category": "Skills",
+    "levelUnlocked": 86,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Travel somewhere that challenges your comfort zone",
+    "category": "Travelling",
+    "levelUnlocked": 86,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a three-hour road trip",
+    "category": "Driving",
+    "levelUnlocked": 86,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Finish a book longer than five hundred pages",
+    "category": "Books",
+    "levelUnlocked": 86,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read One Hundred Years of Solitude",
+    "category": "Books",
+    "levelUnlocked": 87,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Organize a group outing",
+    "category": "Social",
+    "levelUnlocked": 87,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch Do the Right Thing",
+    "category": "Movies",
+    "levelUnlocked": 87,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a travel challenge with three surprise stops",
+    "category": "Travelling",
+    "levelUnlocked": 87,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Recreate a favourite restaurant meal",
+    "category": "Cooking",
+    "levelUnlocked": 88,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Build or restore a small piece of furniture",
+    "category": "Skills",
+    "levelUnlocked": 88,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Plan and complete a two-week international journey",
+    "category": "Travelling",
+    "levelUnlocked": 88,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch a trilogy over one weekend",
+    "category": "Movies",
+    "levelUnlocked": 88,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive responsibly for one month without distractions",
+    "category": "Driving",
+    "levelUnlocked": 89,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Color Purple",
+    "category": "Books",
+    "levelUnlocked": 89,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Attend a cultural event outside your usual circle",
+    "category": "Social",
+    "levelUnlocked": 89,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Drive through city, rural, and highway roads in one trip",
+    "category": "Driving",
+    "levelUnlocked": 89,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch a classic film from the Caribbean",
+    "category": "Movies",
+    "levelUnlocked": 90,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Prepare five freezer-friendly meals",
+    "category": "Cooking",
+    "levelUnlocked": 90,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a recognized online certificate",
+    "category": "Skills",
+    "levelUnlocked": 90,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Design a personal five-dish home menu",
+    "category": "Cooking",
+    "levelUnlocked": 90,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a meaningful travel journal from a major trip",
+    "category": "Travelling",
+    "levelUnlocked": 91,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Teach a new driver one safe vehicle check",
+    "category": "Driving",
+    "levelUnlocked": 91,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Beloved",
+    "category": "Books",
+    "levelUnlocked": 91,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Bring two different friend groups together",
+    "category": "Social",
+    "levelUnlocked": 91,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Ask someone you admire to mentor you",
+    "category": "Social",
+    "levelUnlocked": 92,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Watch eight acclaimed films from eight different countries",
+    "category": "Movies",
+    "levelUnlocked": 92,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 2,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Cook an impressive meal for four people",
+    "category": "Cooking",
+    "levelUnlocked": 92,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Join a recreational swimming session or club",
+    "category": "Swimming",
+    "levelUnlocked": 92,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 4,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Mentor someone in a skill you know",
+    "category": "Skills",
+    "levelUnlocked": 93,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 2
+    }
+  },
+  {
+    "task": "Read The Remains of the Day",
+    "category": "Books",
+    "levelUnlocked": 93,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Mentor or encourage someone less experienced",
+    "category": "Social",
+    "levelUnlocked": 93,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Enter a friendly contest using one of your skills",
+    "category": "Skills",
+    "levelUnlocked": 93,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Develop your own signature dish",
+    "category": "Cooking",
+    "levelUnlocked": 94,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Learn conversational basics in a new language",
+    "category": "Skills",
+    "levelUnlocked": 94,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 3
+    }
+  },
+  {
+    "task": "Read The Count of Monte Cristo",
+    "category": "Books",
+    "levelUnlocked": 94,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Host a small book-swap gathering",
+    "category": "Books",
+    "levelUnlocked": 94,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Host a dinner for people from different parts of your life",
+    "category": "Social",
+    "levelUnlocked": 95,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan and cook a full holiday meal",
+    "category": "Cooking",
+    "levelUnlocked": 95,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Sell something you created",
+    "category": "Skills",
+    "levelUnlocked": 95,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 3
+    }
+  },
+  {
+    "task": "Celebrate a birthday or milestone in a new place",
+    "category": "Travelling",
+    "levelUnlocked": 95,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a five-country film festival at home",
+    "category": "Movies",
+    "levelUnlocked": 95,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Crime and Punishment",
+    "category": "Books",
+    "levelUnlocked": 96,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Speak to five new people at one event",
+    "category": "Social",
+    "levelUnlocked": 96,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Teach someone how to cook one of your best dishes",
+    "category": "Cooking",
+    "levelUnlocked": 96,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a full-day road adventure with planned breaks",
+    "category": "Driving",
+    "levelUnlocked": 96,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Organize and lead a small community project",
+    "category": "Skills",
+    "levelUnlocked": 97,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 3
+    }
+  },
+  {
+    "task": "Read The Brothers Karamazov",
+    "category": "Books",
+    "levelUnlocked": 97,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Build a new friendship through consistent effort",
+    "category": "Social",
+    "levelUnlocked": 97,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a personal best distance challenge",
+    "category": "Swimming",
+    "levelUnlocked": 97,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 4,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a seven-day no-takeout cooking challenge",
+    "category": "Cooking",
+    "levelUnlocked": 98,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": true,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Build a portfolio demonstrating three practical skills",
+    "category": "Skills",
+    "levelUnlocked": 98,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 0,
+      "FIN": 3
+    }
+  },
+  {
+    "task": "Read The Odyssey",
+    "category": "Books",
+    "levelUnlocked": 98,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Host a surprise dinner inspired by another country",
+    "category": "Cooking",
+    "levelUnlocked": 98,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 3,
+      "AUR": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan a reunion that reconnects people",
+    "category": "Social",
+    "levelUnlocked": 98,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 3,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Organize a community activity that brings strangers together",
+    "category": "Social",
+    "levelUnlocked": 99,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 4,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read Meditations",
+    "category": "Books",
+    "levelUnlocked": 99,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Republic",
+    "category": "Books",
+    "levelUnlocked": 99,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Create a personal list of fifty books worth sharing",
+    "category": "Books",
+    "levelUnlocked": 99,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Curate and host your own themed movie marathon",
+    "category": "Movies",
+    "levelUnlocked": 99,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read The Art of War",
+    "category": "Books",
+    "levelUnlocked": 100,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read a major novel by a Caribbean author",
+    "category": "Books",
+    "levelUnlocked": 100,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Read twelve books from twelve different countries",
+    "category": "Books",
+    "levelUnlocked": 100,
+    "repeated": true,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": true
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete a personal project that once felt too difficult",
+    "category": "Skills",
+    "levelUnlocked": 100,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Complete your dream destination adventure",
+    "category": "Travelling",
+    "levelUnlocked": 100,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 3,
+      "CUL": 4,
+      "STR": 0,
+      "SUC": 0,
+      "SKI": 0,
+      "VIT": 0,
+      "AUR": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Lead a safe group road trip as the main driver",
+    "category": "Driving",
+    "levelUnlocked": 100,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 0,
+      "SUC": 4,
+      "SKI": 4,
+      "VIT": 0,
+      "AUR": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "task": "Plan and finish your own swimming adventure day",
+    "category": "Swimming",
+    "levelUnlocked": 100,
+    "repeated": false,
+    "repeatedTime": {
+      "daily": false,
+      "weekly": false,
+      "monthly": false
+    },
+    "stats": {
+      "CHA": 0,
+      "CUL": 0,
+      "STR": 4,
+      "SUC": 0,
+      "SKI": 4,
+      "VIT": 4,
+      "AUR": 0,
+      "FIN": 0
+    }
+  }
+]

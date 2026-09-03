@@ -1,0 +1,152 @@
+/* ---------- Auth ---------- */
+.auth {
+  position: relative;
+  z-index: 1;
+  min-height: 100dvh;
+  display: grid;
+  align-content: start;
+  gap: 18px;
+  max-width: var(--shell);
+  margin: 0 auto;
+  padding: 28px 18px 48px;
+}
+
+.auth-logo { width: min(280px, 78%); margin: 12px auto 0; display: block; }
+
+.auth-tagline {
+  text-align: center;
+  color: var(--muted);
+  font-family: var(--display);
+  font-size: 9px;
+  line-height: 1.8;
+}
+
+.auth-switch { text-align: center; font-size: 15px; color: var(--muted); }
+
+.avatar-picker {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(88px, 1fr));
+  gap: 10px;
+  max-height: 320px;
+  overflow-y: auto;
+  padding: 4px;
+}
+
+.avatar-option {
+  display: grid;
+  justify-items: center;
+  gap: 6px;
+  padding: 8px 4px;
+  border-radius: 12px;
+  border: 2px solid transparent;
+  background: rgba(3, 8, 15, 0.35);
+  font-family: var(--display);
+  font-size: 7px;
+  color: var(--muted);
+  text-align: center;
+}
+
+.avatar-option[aria-pressed="true"] {
+  border-color: var(--cyan);
+  color: var(--cream);
+  background: rgba(36, 200, 240, 0.12);
+}
+
+.avatar-option img { width: 62px; height: 62px; object-fit: contain; }
+
+/* ---------- Hero ---------- */
+.hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 18px;
+  border: 2px solid var(--line);
+  background:
+    radial-gradient(90% 120% at 80% 0%, rgba(152, 87, 229, 0.35), transparent 60%),
+    linear-gradient(180deg, rgba(11, 36, 64, 0.98), rgba(7, 20, 38, 0.98));
+  padding: 16px;
+  display: grid;
+  grid-template-columns: 1fr 132px;
+  gap: 12px;
+  align-items: center;
+}
+
+.hero-date { font-family: var(--display); font-size: 26px; line-height: 1.1; }
+.hero-part { color: var(--orange); font-family: var(--display); font-size: 11px; margin-top: 6px; }
+.hero-name { margin-top: 12px; font-size: 16px; color: var(--cream); }
+.hero-meta { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+
+.xp-block { margin-top: 14px; display: grid; gap: 6px; }
+.xp-legend { display: flex; justify-content: space-between; font-family: var(--display); font-size: 8px; color: var(--muted); }
+
+/* ---------- Filters ---------- */
+.filters {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 4px 0 10px;
+  scrollbar-width: none;
+}
+
+.filters::-webkit-scrollbar { display: none; }
+
+.filter {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 11px;
+  border-radius: 20px;
+  border: 2px solid var(--border);
+  background: rgba(3, 8, 15, 0.4);
+  font-family: var(--display);
+  font-size: 8px;
+  color: var(--muted);
+}
+
+.filter img { width: 18px; height: 18px; }
+.filter[aria-pressed="true"] { border-color: var(--cyan); color: var(--cream); background: rgba(36, 200, 240, 0.14); }
+
+/* ---------- Goals ---------- */
+.goal {
+  border-radius: var(--radius);
+  border: 2px solid var(--line);
+  background: linear-gradient(180deg, rgba(152, 87, 229, 0.18), rgba(7, 20, 38, 0.95));
+  padding: 14px;
+  display: grid;
+  gap: 10px;
+}
+
+.goal--done { background: linear-gradient(180deg, rgba(54, 184, 107, 0.2), rgba(7, 20, 38, 0.95)); }
+.goal-head { display: grid; grid-template-columns: 56px 1fr; gap: 12px; align-items: center; }
+
+/* ---------- Character sheet ---------- */
+.char-hero {
+  display: grid;
+  justify-items: center;
+  gap: 12px;
+  padding: 18px 14px;
+  border-radius: 18px;
+  border: 2px solid var(--line);
+  background:
+    radial-gradient(70% 80% at 50% 0%, rgba(36, 200, 240, 0.22), transparent 65%),
+    linear-gradient(180deg, rgba(11, 36, 64, 0.98), rgba(7, 20, 38, 0.98));
+}
+
+.char-hero .sprite { width: 148px; height: 148px; object-fit: contain; }
+
+.ledger { display: grid; gap: 8px; }
+.ledger-row {
+  display: grid;
+  grid-template-columns: 40px 1fr auto;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  background: rgba(3, 8, 15, 0.4);
+  border: 1px solid var(--line);
+}
+.ledger-row img { width: 32px; height: 32px; }
+.ledger-row small { color: var(--muted); display: block; font-size: 13px; }
+
+.streak-strip { display: flex; align-items: center; gap: 4px; }
+.streak-strip img { width: 34px; height: 34px; }
